@@ -1,0 +1,48 @@
+{
+    "post": {
+      "id": "1234567890",
+      "user": {
+        "username": "Smera",
+        "full_name": "Example User",
+        "profile_picture": "https://scontent.cdninstagram.com/v/t51.2885-19/349116470_277631774667502_618146012969165425_n.jpg?stp=dst-jpg_s100x100&_nc_cat=109&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=hOsQhVQz1WQQ7kNvgGGB0Bl&_nc_ad=z-m&_nc_cid=1174&_nc_ht=scontent.cdninstagram.com&oh=00_AYCz3XSTv78z6Va6vuv-Tkzq3CYFEQcVrQWz2XXkLcxMWg&oe=66A7CE91"
+      },
+      "image": "https://scontent.cdninstagram.com/v/t51.2885-19/275214931_4880219242063515_4279312462643863739_n.jpg?stp=dst-jpg_s100x100&_nc_cat=100&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=JS7-hvrpsxQQ7kNvgG2gAZn&_nc_ad=z-m&_nc_cid=1174&_nc_ht=scontent.cdninstagram.com&oh=00_AYBQ2yXO2UkwfzRsU11JgD0UFWjVr5PETy4bImv07LNvhw&oe=66A83707",
+      "caption": "Enjoying a beautiful sunset! #sunset #nature",
+      "comments": [
+        {
+          "id": "c1",
+          "user": {
+            "username": "commenter1",
+            "full_name": "Commenter One",
+            "profile_picture": "https://scontent.cdninstagram.com/v/t51.2885-19/439110773_412747981388215_8921698733397119289_n.jpg?stp=dst-jpg_s100x100&_nc_cat=101&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=4sRljUU1h70Q7kNvgEYlK1J&_nc_ad=z-m&_nc_cid=1174&_nc_ht=scontent.cdninstagram.com&oh=00_AYDwQSfEptQCXXJ_IcQyJU8Nr44_S3qYQJeBpVAnU41iQw&oe=66A8454D"
+          },
+          "text": "Wow, amazing view!",
+          "timestamp": "2024-07-25T10:00:00Z"
+        },
+        {
+          "id": "c2",
+          "user": {
+            "username": "commenter2",
+            "full_name": "Commenter Two",
+            "profile_picture": "https://scontent.cdninstagram.com/v/t51.2885-19/323751249_1549883365496928_6548830117316353540_n.jpg?stp=dst-jpg_s100x100&_nc_cat=111&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=nKAKSede4woQ7kNvgHfCwQN&_nc_ad=z-m&_nc_cid=1174&_nc_ht=scontent.cdninstagram.com&oh=00_AYD57132zD-vGay5ABrUSnO08elsc8N7b9HOYeaJcLeidA&oe=66A83A15"
+          },
+          "text": "Love this!",
+          "timestamp": "2024-07-25T10:05:00Z"
+        },
+        {
+          "id": "c3",
+          "user": {
+            "username": "commenter3",
+            "full_name": "Commenter Three",
+            "profile_picture": "https://scontent.cdninstagram.com/v/t51.2885-19/451407499_1008925444167613_5005393947926719644_n.jpg?stp=dst-jpg_s100x100&_nc_cat=111&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=4Jp_Fw1tTt8Q7kNvgGW0n7y&_nc_ad=z-m&_nc_cid=1174&_nc_ht=scontent.cdninstagram.com&oh=00_AYAoLW7PFSPcNyARtOfY7O1mHDWbBTMgKoOVMIUIsLS8FA&oe=66A84063"
+          },
+          "text": "Where is this place?",
+          "timestamp": "2024-07-25T10:10:00Z"
+        }
+      ],
+      "timestamp": "2024-07-25T09:00:00Z",
+      "likes": 150,
+      "location": "Beach, California"
+    }
+  }
+  
