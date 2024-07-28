@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Image, ScrollView } from "react-native";
+import { StyleSheet, Text, View, Image, ScrollView} from "react-native";
 import { StatusBar } from "expo-status-bar";
 import { Divider } from "react-native-elements";
 import Users from "../users.json";
@@ -42,12 +42,12 @@ export default function Index() {
           <Image source={require("../chat.png")} style={styles.posticon2}/>
           <Image source={require("../send.png")} style={styles.posticon2}/>
           </View>
-          <Text style={styles.textlike}>1,00,000 likes</Text>
+          <Text style={styles.textlike}>{Post.post.likes} likes</Text>
           <View style={styles.captionhead}>
           <Text style={styles.usernametext}>{Post.post.user.username}</Text>
           <Text style={styles.captiontext}>{Post.post.caption}</Text>
           </View>
-          <Text style={styles.commenttitle}>View all comments</Text>
+          <Text style={styles.commenttitle}>View all {Post.post.comments.length} comments</Text>
           {Post.post.comments.map((comment, index) => (
             <View key={index} style={styles.commentContainer}>
               <View style={styles.commentTextContainer}>
